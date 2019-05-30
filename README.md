@@ -123,4 +123,4 @@ Data to Distribute
 
 ## Model metrics:
 
-[model metrics](https://github.com/datalogue/handset_telemetry/blob/master/code/images/Screen%20Shot%202019-05-30%20at%209.38.37%20AM.png?raw=true)
+![model metrics](https://github.com/datalogue/handset_telemetry/blob/master/code/images/Screen%20Shot%202019-05-30%20at%209.38.37%20AM.png?raw=true)
