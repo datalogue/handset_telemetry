@@ -122,3 +122,5 @@ Data to Distribute
 > Looks pretty solid. Under the WiFi Network, perhaps SSID, Channel, MCS and Encryption would be useful.
 
 ## Model metrics:
+
+[model metrics](https://github.com/datalogue/handset_telemetry/blob/master/code/images/Screen%20Shot%202019-05-30%20at%209.38.37%20AM.png?raw=true)
